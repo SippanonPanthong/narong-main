@@ -27,7 +27,7 @@ const Transcript = () => {
                     </Col>
                     <Col xs={12} md={6} className="d-flex align-items-center">
                         <div className="text-center">
-                            <h3 className="transcript-title2">ผลการเขียนหลักสูตรการศึกษาขั้นพื้นฐาน ระดับชั้นมัธยมศึกษาตอนปลาย (ปพ.1 : พ)</h3>
+                            <h3 className="transcript-title2">ผลการเรียนหลักสูตรการศึกษาขั้นพื้นฐาน ระดับชั้นมัธยมศึกษาตอนปลาย (ปพ.1 : พ)</h3>
                             <p className="transcript-description">
                             โรงเรียน บัวหลวงวิทยาคม<br/>
                             ระดับชั้นมัธยมปลาย เกรดเฉลี่ยสะสม (4 ภาคเรียน): 3.28<br/>
@@ -52,7 +52,7 @@ const Transcript = () => {
                     </Col>
                     <Col xs={12} md={6} className="d-flex align-items-center">
                         <div className="text-center">
-                            <h3 className="transcript-title2">ผลการเขียนหลักสูตรการศึกษาขั้นพื้นฐาน ระดับชั้นมัธยมศึกษาตอนต้น (ปพ.1 : บ)</h3>
+                            <h3 className="transcript-title2">ผลการเรียนหลักสูตรการศึกษาขั้นพื้นฐาน ระดับชั้นมัธยมศึกษาตอนต้น (ปพ.1 : บ)</h3>
                             <p className="transcript-description">
                                 โรงเรียน บัวหลวงวิทยาคม<br/>
                                 ระดับชั้นมัธยมต้น เกรดเฉลี่ยสะสม (6 ภาคเรียน): 2.24<br/>
