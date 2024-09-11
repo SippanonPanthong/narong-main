@@ -84,7 +84,7 @@ const Portfolio = () => {
         </div>
         <div className="d-flex align-items-center justify-content-start mb-3">
             <h3 className='certification-title'>เกรดเฉลี่ยสะสม (GPAX) :</h3>
-            <p className='certification-description2'>3.23</p>
+            <p className='certification-description2'>3.28</p>
         </div>
     </div>
 </Col>
