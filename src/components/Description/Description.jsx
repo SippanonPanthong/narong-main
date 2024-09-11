@@ -6,7 +6,13 @@ import 'slick-carousel/slick/slick-theme.css';
 import './description.css';
 import portrait1 from '../../assets/39808_0.jpg';
 import portrait2 from '../../assets/Profile.png';
-import portrait3 from '../../assets/Profile2.jpg';
+
+import portrait3 from '../../assets/Profile3.jpg';
+import portrait4 from '../../assets/Profile4.jpg';
+import portrait5 from '../../assets/Profile5.jpg';
+import portrait6 from '../../assets/Profile6.jpg';
+import portrait7 from '../../assets/Profile7.jpg';
+import portrait8 from '../../assets/Profile8.jpg';
 
 function Description() {
     const [scrollY, setScrollY] = useState(0);
@@ -30,7 +36,7 @@ function Description() {
         slidesToShow: 1,
         slidesToScroll: 1,
         autoplay: true, // ต้องเป็น true เพื่อให้เลื่อนอัตโนมัติ
-        autoplaySpeed: 3000, // กำหนดเวลาการเลื่อนอัตโนมัติเป็น 3 วินาที
+        autoplaySpeed: 2500, // กำหนดเวลาการเลื่อนอัตโนมัติเป็น 3 วินาที
         arrows: false
     };
 
@@ -41,7 +47,7 @@ function Description() {
                     <Col xs={10} md={10} lg={6} className='mb-4'>
                         {/* Carousel for portrait images */}
                         <Slider {...carouselSettings}>
-                            { [portrait1, portrait2, portrait3].map((portrait, index) => (
+                            { [portrait3, portrait4, portrait5, portrait6, portrait7 , portrait8].map((portrait, index) => (
                                 <img
                                     key={index}
                                     src={portrait}

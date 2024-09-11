@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLinkedin, faGithub, faDiscord, faFacebook, faTwitter } from '@fortawesome/free-brands-svg-icons';
-import avatar1 from '../../assets/Profile2.jpg';
+import avatar1 from '../../assets/Profile3.jpg';
 import avatar2 from '../../assets/IMG_0113.jpg';
 import avatar3 from '../../assets/Profile.png';
 import './about.css';
