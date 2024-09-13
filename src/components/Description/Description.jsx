@@ -66,11 +66,11 @@ function Description() {
                             <span className="bold-label">วัน/เดือน/ปีเกิด:</span> 10 ธันวาคม 2549<br/>
                             <span className="bold-label">หมู่เลือด:</span> B <span className="bold-label">เชื้อชาติ:</span> ไทย <span className="bold-label">สัญชาติ:</span> ไทย <span className="bold-label">ศาสนา:</span> พุทธ<br/>
                             <span className="bold-label">ที่อยู่:</span> 16 หมู่ 8 ต.ลุมปุ๊ก อ.เมือง จ.บุรีรัมย์<br/>
-                            <span className="bold-label">ลักษณะนิสัย:</span> ร่าเริง เฮฮา, เรียนรู้ไว, ยึดหลักวิทยาศาสตร์ในการใช้ชีวิต, ชอบศึกษาหาความรู้ใหม่<br/>
-                            <span className="bold-label">งานอดิเรก:</span> เขียนโปรแกรมคอมพิวเตอร์, อ่านนิยาย, ฟังเพลง, เล่นฟุตบอล, เล่นวอลเล่ย์บอล, เล่นสเก็ตบอร์ด<br/>
+                            <span className="bold-label">ลักษณะนิสัย:</span> ร่าเริง เฮฮา, เรียนรู้ไว, ชอบศึกษาหาความรู้ใหม่<br/>
+                            <span className="bold-label">งานอดิเรก:</span> เขียนโปรแกรมคอมพิวเตอร์, อ่านนิยาย, ฟังเพลง, เล่นฟุตบอล, เล่นสเก็ตบอร์ด<br/>
                             <span className="bold-label">ความสามารถพิเศษ:</span> เขียนโปรแกรม, การเรียนรู้สิ่งใหม่ๆ อย่างรวดเร็ว, การทำกิจกรรมกีฬาหลากหลายประเภท<br/>
                             <span className="bold-label">ข้อมูลครอบครัว:</span><br/>
-                            <span className="bold-label">บิดา:</span> นาย สิปปนนท์ พันทอง (บิดา บุญธรรม)<br/>
+                            <span className="bold-label">บิดา:</span> นาย อนุสรณ์ สุจินตนาธรรม<br/>
                             <span className="bold-label">มารดา:</span> น.ส ศนันธฉัตร พันทอง<br/>
                             <span className="bold-label">อาชีพบิดา:</span> (พนักงานบริษัทเอกชน)<br/>
                             <span className="bold-label">อาชีพมารดา:</span> (พนักงานบริษัทเอกชน)<br/>

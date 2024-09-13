@@ -80,7 +80,7 @@ const Portfolio = () => {
         </div>
         <div className="d-flex align-items-center justify-content-start mb-3">
             <h3 className='certification-title'>ห้องเรียน :</h3>
-            <p className='certification-description2'> คณิต-อังกฤษ</p>
+            <p className='certification-description2'> ศิลป์-ภาษา</p>
         </div>
         <div className="d-flex align-items-center justify-content-start mb-3">
             <h3 className='certification-title'>เกรดเฉลี่ยสะสม (GPAX) :</h3>

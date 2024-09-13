@@ -75,6 +75,9 @@
 .rounded-image {
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 100%; /* ขยายให้เต็มความกว้างของ parent container */
+    height: 350px; /* ความสูงที่ต้องการ */
+    object-fit: cover; /* ปรับการแสดงผลของรูปภาพโดยคงอัตราส่วนไว้ */
 }
 
 .each-proj {
