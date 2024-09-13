@@ -1,6 +1,9 @@
 import { Container, Row, Col } from 'react-bootstrap';
 import './activity.css';
 import liberThumbNail from '../../assets/liberThumbnail.png'; // ใช้ไฟล์รูปภาพตัวอย่าง
+import IS1 from '../../assets/IS1.png'; // ใช้ไฟล์รูปภาพตัวอย่าง
+import IS2 from '../../assets/IS2.png';
+import IS3 from '../../assets/IS3.png';
 
 const Activity = () => {
     return (
@@ -15,7 +18,7 @@ const Activity = () => {
                 <Row className='each-proj'>
                     <Col xs={12} md={6} className="d-flex align-items-center justify-content-center">
                         <img
-                            src={liberThumbNail}
+                            src={IS1}
                             alt="liber reader project"
                             className="rounded-image"
                             style={{ width: '100%' }}
