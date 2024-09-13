@@ -61,16 +61,20 @@
 
 .about-me {
     font-family: 'Sarabun', sans-serif;
-    font-size: 0.95rem;
+    font-size: clamp(9px, 1vw, 18px); 
     color: whitesmoke;
-    margin-bottom: 2px;   
+    margin-bottom: 2px;
+ 
 }
+
+
 
 .personal-title {
     font-family: 'Sarabun', sans-serif;
-    font-size: 1rem;
+    font-size: clamp(9px, 1vw, 18px); 
     color: whitesmoke;
     margin-bottom: 5px;
+
 }
 
 .social-links-container {
@@ -195,12 +199,12 @@
 
 @media (max-width: 600px) {
     .first-name {
-      font-size: 1rem;
+      font-size: 0.8rem;
     }
     .personal-title {
-      font-size: 1rem;
+      font-size: 0.8rem;
     } 
     .about-me {
-      font-size: 1rem;
+      font-size: 0.8rem;
     } 
 }

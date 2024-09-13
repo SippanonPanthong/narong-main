@@ -107,11 +107,11 @@ const Portfolio = () => {
         </div>
         <div className="d-flex align-items-center justify-content-start mb-3">
             <h3 className='certification-title'>คณะ :</h3>
-            <p className='certification-description2'>เทคโนโลยีสารสนเทศ หรือ วิทยาการคอม</p>
+            <p className='certification-description2'>เทคโนโลยีสารสนเทศ</p>
         </div>
         <div className="d-flex align-items-center justify-content-start mb-3">
         <h3 className='certification-title'>สาขา :</h3>
-        <p className='certification-description2'>นวัตกรรมซอฟต์แวร์ หรือ วิศวกรรมโปรแกรม</p>
+        <p className='certification-description2'>วิทยาการคอมพิวเตอร์</p>
         </div>
     </div>
                     </Col>

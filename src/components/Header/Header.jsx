@@ -49,6 +49,7 @@ function Header() {
                     to='/design-portfolio'
                     onClick={handleLinkClick}
                     >
+                        {/*
                         Project
                     </HashLink>
                     <HashLink 
@@ -56,7 +57,8 @@ function Header() {
                     as={LinkRouter}
                     to='/certifications'
                     onClick={handleLinkClick}
-                    >
+                    > */}
+
                         Certificate
                     </HashLink>
                     <HashLink 
