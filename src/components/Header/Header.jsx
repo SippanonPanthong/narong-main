@@ -43,22 +43,23 @@ function Header() {
                     <HashLink className="nav-bar-links" to="/#contact-me" onClick={handleLinkClick}>
                         Contact
                     </HashLink>
+                    {/*
                     <HashLink 
                     className="nav-bar-links"
                     as={LinkRouter}
                     to='/design-portfolio'
                     onClick={handleLinkClick}
                     >
-                        {/*
+                        
                         Project
-                    </HashLink>
+                    </HashLink>*/}
+                    
                     <HashLink 
                     className="nav-bar-links"
                     as={LinkRouter}
                     to='/certifications'
                     onClick={handleLinkClick}
-                    > */}
-
+                    > 
                         Certificate
                     </HashLink>
                     <HashLink 

@@ -75,7 +75,7 @@
     border: 2px solid #ccc;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     width: 100%;
-    max-width: 500px; /* จำกัดความกว้างสูงสุดของภาพ */
+    max-width: 700px; /* จำกัดความกว้างสูงสุดของภาพ */
     height: auto; /* คงอัตราส่วนของภาพ */
 }
 
