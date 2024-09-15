@@ -129,11 +129,11 @@ const Portfolio = () => {
                     <Col xs={12} md={6} className="d-flex align-items-center">
                     <div className="text-center">
                     <div className="d-flex align-items-center justify-content-start mb-3">
-    <h3 className='certification-title'>เข้าทำงาน</h3>
+    <h3 className='certification-title'>เข้าทำงาน :</h3>
     <p className='certification-description2'>บริษัทเทคโนโลยีชั้นนำด้าน IT ที่เน้นนวัตกรรมและการพัฒนา (To Be)</p>
 </div>
 <div className="d-flex align-items-center justify-content-start mb-3">
-    <h3 className='certification-title'>ลักษะงาน</h3>
+    <h3 className='certification-title'>ลักษะงาน :</h3>
     <p className='certification-description2'>สร้างสรรค์และพัฒนาโปรแกรม รวมถึงการออกแบบซอฟต์แวร์ที่ตอบสนองความต้องการของผู้ใช้</p>
 </div>        
 
